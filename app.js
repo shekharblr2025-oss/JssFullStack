@@ -13,5 +13,7 @@ navigation?.addEventListener("click", (event) => {
     menuButton?.setAttribute("aria-expanded", "false");
     menuButton?.setAttribute("aria-label", "Open navigation");
     navigation.classList.remove("is-open");
+
+    
   }
 });
