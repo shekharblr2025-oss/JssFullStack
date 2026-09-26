@@ -17,3 +17,5 @@ navigation?.addEventListener("click", (event) => {
     
   }
 });
+
+// adding new changes for this page
